@@ -1,0 +1,1602 @@
+﻿[
+    {
+        "reported_date": "2020-09-11",
+        "current_schools_w_cases": "13",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "13",
+        "cumulative_school_related_student_cases": "4",
+        "cumulative_school_related_staff_cases": "9",
+        "cumulative_school_related_unspecified_cases": ""
+    },
+    {
+        "reported_date": "2020-09-14",
+        "current_schools_w_cases": "15",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "15",
+        "cumulative_school_related_student_cases": "5",
+        "cumulative_school_related_staff_cases": "10",
+        "cumulative_school_related_unspecified_cases": ""
+    },
+    {
+        "reported_date": "2020-09-15",
+        "current_schools_w_cases": "27",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "29",
+        "cumulative_school_related_student_cases": "9",
+        "cumulative_school_related_staff_cases": "14",
+        "cumulative_school_related_unspecified_cases": "6"
+    },
+    {
+        "reported_date": "2020-09-16",
+        "current_schools_w_cases": "35",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "41",
+        "cumulative_school_related_student_cases": "15",
+        "cumulative_school_related_staff_cases": "18",
+        "cumulative_school_related_unspecified_cases": "8"
+    },
+    {
+        "reported_date": "2020-09-17",
+        "current_schools_w_cases": "51",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "62",
+        "cumulative_school_related_student_cases": "20",
+        "cumulative_school_related_staff_cases": "22",
+        "cumulative_school_related_unspecified_cases": "20"
+    },
+    {
+        "reported_date": "2020-09-18",
+        "current_schools_w_cases": "60",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "72",
+        "cumulative_school_related_student_cases": "25",
+        "cumulative_school_related_staff_cases": "22",
+        "cumulative_school_related_unspecified_cases": "25"
+    },
+    {
+        "reported_date": "2020-09-21",
+        "current_schools_w_cases": "75",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "90",
+        "cumulative_school_related_student_cases": "33",
+        "cumulative_school_related_staff_cases": "26",
+        "cumulative_school_related_unspecified_cases": "31"
+    },
+    {
+        "reported_date": "2020-09-22",
+        "current_schools_w_cases": "116",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "141",
+        "cumulative_school_related_student_cases": "59",
+        "cumulative_school_related_staff_cases": "33",
+        "cumulative_school_related_unspecified_cases": "49"
+    },
+    {
+        "reported_date": "2020-09-23",
+        "current_schools_w_cases": "153",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "180",
+        "cumulative_school_related_student_cases": "77",
+        "cumulative_school_related_staff_cases": "38",
+        "cumulative_school_related_unspecified_cases": "65"
+    },
+    {
+        "reported_date": "2020-09-24",
+        "current_schools_w_cases": "178",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "210",
+        "cumulative_school_related_student_cases": "101",
+        "cumulative_school_related_staff_cases": "40",
+        "cumulative_school_related_unspecified_cases": "69"
+    },
+    {
+        "reported_date": "2020-09-25",
+        "current_schools_w_cases": "198",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "238",
+        "cumulative_school_related_student_cases": "110",
+        "cumulative_school_related_staff_cases": "50",
+        "cumulative_school_related_unspecified_cases": "78"
+    },
+    {
+        "reported_date": "2020-09-28",
+        "current_schools_w_cases": "224",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "272",
+        "cumulative_school_related_student_cases": "137",
+        "cumulative_school_related_staff_cases": "52",
+        "cumulative_school_related_unspecified_cases": "83"
+    },
+    {
+        "reported_date": "2020-09-29",
+        "current_schools_w_cases": "249",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "307",
+        "cumulative_school_related_student_cases": "164",
+        "cumulative_school_related_staff_cases": "44",
+        "cumulative_school_related_unspecified_cases": "99"
+    },
+    {
+        "reported_date": "2020-09-30",
+        "current_schools_w_cases": "282",
+        "current_schools_closed": "3",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "342",
+        "cumulative_school_related_student_cases": "188",
+        "cumulative_school_related_staff_cases": "48",
+        "cumulative_school_related_unspecified_cases": "106"
+    },
+    {
+        "reported_date": "2020-10-01",
+        "current_schools_w_cases": "306",
+        "current_schools_closed": "3",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "447",
+        "cumulative_school_related_student_cases": "233",
+        "cumulative_school_related_staff_cases": "82",
+        "cumulative_school_related_unspecified_cases": "132"
+    },
+    {
+        "reported_date": "2020-10-02",
+        "current_schools_w_cases": "318",
+        "current_schools_closed": "3",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "483",
+        "cumulative_school_related_student_cases": "262",
+        "cumulative_school_related_staff_cases": "84",
+        "cumulative_school_related_unspecified_cases": "137"
+    },
+    {
+        "reported_date": "2020-10-05",
+        "current_schools_w_cases": "335",
+        "current_schools_closed": "3",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "539",
+        "cumulative_school_related_student_cases": "293",
+        "cumulative_school_related_staff_cases": "92",
+        "cumulative_school_related_unspecified_cases": "154"
+    },
+    {
+        "reported_date": "2020-10-06",
+        "current_schools_w_cases": "347",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "611",
+        "cumulative_school_related_student_cases": "333",
+        "cumulative_school_related_staff_cases": "102",
+        "cumulative_school_related_unspecified_cases": "177"
+    },
+    {
+        "reported_date": "2020-10-07",
+        "current_schools_w_cases": "379",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "722",
+        "cumulative_school_related_student_cases": "402",
+        "cumulative_school_related_staff_cases": "117",
+        "cumulative_school_related_unspecified_cases": "203"
+    },
+    {
+        "reported_date": "2020-10-08",
+        "current_schools_w_cases": "415",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "822",
+        "cumulative_school_related_student_cases": "453",
+        "cumulative_school_related_staff_cases": "139",
+        "cumulative_school_related_unspecified_cases": "230"
+    },
+    {
+        "reported_date": "2020-10-09",
+        "current_schools_w_cases": "429",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "876",
+        "cumulative_school_related_student_cases": "482",
+        "cumulative_school_related_staff_cases": "149",
+        "cumulative_school_related_unspecified_cases": "245"
+    },
+    {
+        "reported_date": "2020-10-13",
+        "current_schools_w_cases": "436",
+        "current_schools_closed": "3",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "948",
+        "cumulative_school_related_student_cases": "531",
+        "cumulative_school_related_staff_cases": "157",
+        "cumulative_school_related_unspecified_cases": "260"
+    },
+    {
+        "reported_date": "2020-10-14",
+        "current_schools_w_cases": "421",
+        "current_schools_closed": "5",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "1040",
+        "cumulative_school_related_student_cases": "580",
+        "cumulative_school_related_staff_cases": "168",
+        "cumulative_school_related_unspecified_cases": "292"
+    },
+    {
+        "reported_date": "2020-10-15",
+        "current_schools_w_cases": "451",
+        "current_schools_closed": "5",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "1145",
+        "cumulative_school_related_student_cases": "635",
+        "cumulative_school_related_staff_cases": "184",
+        "cumulative_school_related_unspecified_cases": "326"
+    },
+    {
+        "reported_date": "2020-10-16",
+        "current_schools_w_cases": "485",
+        "current_schools_closed": "5",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "1242",
+        "cumulative_school_related_student_cases": "690",
+        "cumulative_school_related_staff_cases": "195",
+        "cumulative_school_related_unspecified_cases": "357"
+    },
+    {
+        "reported_date": "2020-10-19",
+        "current_schools_w_cases": "483",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "1310",
+        "cumulative_school_related_student_cases": "736",
+        "cumulative_school_related_staff_cases": "202",
+        "cumulative_school_related_unspecified_cases": "372"
+    },
+    {
+        "reported_date": "2020-10-20",
+        "current_schools_w_cases": "508",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "1429",
+        "cumulative_school_related_student_cases": "810",
+        "cumulative_school_related_staff_cases": "223",
+        "cumulative_school_related_unspecified_cases": "396"
+    },
+    {
+        "reported_date": "2020-10-21",
+        "current_schools_w_cases": "516",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "1569",
+        "cumulative_school_related_student_cases": "874",
+        "cumulative_school_related_staff_cases": "235",
+        "cumulative_school_related_unspecified_cases": "460"
+    },
+    {
+        "reported_date": "2020-10-22",
+        "current_schools_w_cases": "501",
+        "current_schools_closed": "5",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "1641",
+        "cumulative_school_related_student_cases": "920",
+        "cumulative_school_related_staff_cases": "241",
+        "cumulative_school_related_unspecified_cases": "480"
+    },
+    {
+        "reported_date": "2020-10-23",
+        "current_schools_w_cases": "514",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "1698",
+        "cumulative_school_related_student_cases": "946",
+        "cumulative_school_related_staff_cases": "245",
+        "cumulative_school_related_unspecified_cases": "507"
+    },
+    {
+        "reported_date": "2020-10-26",
+        "current_schools_w_cases": "548",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "1770",
+        "cumulative_school_related_student_cases": "985",
+        "cumulative_school_related_staff_cases": "249",
+        "cumulative_school_related_unspecified_cases": "536"
+    },
+    {
+        "reported_date": "2020-10-27",
+        "current_schools_w_cases": "593",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "1910",
+        "cumulative_school_related_student_cases": "1063",
+        "cumulative_school_related_staff_cases": "261",
+        "cumulative_school_related_unspecified_cases": "586"
+    },
+    {
+        "reported_date": "2020-10-28",
+        "current_schools_w_cases": "595",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "2001",
+        "cumulative_school_related_student_cases": "1103",
+        "cumulative_school_related_staff_cases": "274",
+        "cumulative_school_related_unspecified_cases": "624"
+    },
+    {
+        "reported_date": "2020-10-29",
+        "current_schools_w_cases": "581",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "2098",
+        "cumulative_school_related_student_cases": "1157",
+        "cumulative_school_related_staff_cases": "283",
+        "cumulative_school_related_unspecified_cases": "658"
+    },
+    {
+        "reported_date": "2020-10-30",
+        "current_schools_w_cases": "551",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "2159",
+        "cumulative_school_related_student_cases": "1197",
+        "cumulative_school_related_staff_cases": "287",
+        "cumulative_school_related_unspecified_cases": "675"
+    },
+    {
+        "reported_date": "2020-11-02",
+        "current_schools_w_cases": "558",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "2228",
+        "cumulative_school_related_student_cases": "1238",
+        "cumulative_school_related_staff_cases": "293",
+        "cumulative_school_related_unspecified_cases": "697"
+    },
+    {
+        "reported_date": "2020-11-03",
+        "current_schools_w_cases": "578",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "2360",
+        "cumulative_school_related_student_cases": "1318",
+        "cumulative_school_related_staff_cases": "306",
+        "cumulative_school_related_unspecified_cases": "736"
+    },
+    {
+        "reported_date": "2020-11-04",
+        "current_schools_w_cases": "581",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "2476",
+        "cumulative_school_related_student_cases": "1399",
+        "cumulative_school_related_staff_cases": "313",
+        "cumulative_school_related_unspecified_cases": "764"
+    },
+    {
+        "reported_date": "2020-11-05",
+        "current_schools_w_cases": "580",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "2543",
+        "cumulative_school_related_student_cases": "1435",
+        "cumulative_school_related_staff_cases": "320",
+        "cumulative_school_related_unspecified_cases": "788"
+    },
+    {
+        "reported_date": "2020-11-06",
+        "current_schools_w_cases": "582",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "2628",
+        "cumulative_school_related_student_cases": "1484",
+        "cumulative_school_related_staff_cases": "328",
+        "cumulative_school_related_unspecified_cases": "816"
+    },
+    {
+        "reported_date": "2020-11-09",
+        "current_schools_w_cases": "565",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "2707",
+        "cumulative_school_related_student_cases": "1523",
+        "cumulative_school_related_staff_cases": "341",
+        "cumulative_school_related_unspecified_cases": "843"
+    },
+    {
+        "reported_date": "2020-11-10",
+        "current_schools_w_cases": "601",
+        "current_schools_closed": "3",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "2865",
+        "cumulative_school_related_student_cases": "1626",
+        "cumulative_school_related_staff_cases": "363",
+        "cumulative_school_related_unspecified_cases": "876"
+    },
+    {
+        "reported_date": "2020-11-11",
+        "current_schools_w_cases": "654",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "3063",
+        "cumulative_school_related_student_cases": "1743",
+        "cumulative_school_related_staff_cases": "383",
+        "cumulative_school_related_unspecified_cases": "937"
+    },
+    {
+        "reported_date": "2020-11-12",
+        "current_schools_w_cases": "653",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "3166",
+        "cumulative_school_related_student_cases": "1794",
+        "cumulative_school_related_staff_cases": "397",
+        "cumulative_school_related_unspecified_cases": "975"
+    },
+    {
+        "reported_date": "2020-11-13",
+        "current_schools_w_cases": "670",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "3282",
+        "cumulative_school_related_student_cases": "1850",
+        "cumulative_school_related_staff_cases": "410",
+        "cumulative_school_related_unspecified_cases": "1022"
+    },
+    {
+        "reported_date": "2020-11-16",
+        "current_schools_w_cases": "683",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "3387",
+        "cumulative_school_related_student_cases": "1913",
+        "cumulative_school_related_staff_cases": "423",
+        "cumulative_school_related_unspecified_cases": "1051"
+    },
+    {
+        "reported_date": "2020-11-17",
+        "current_schools_w_cases": "670",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "3518",
+        "cumulative_school_related_student_cases": "1985",
+        "cumulative_school_related_staff_cases": "445",
+        "cumulative_school_related_unspecified_cases": "1088"
+    },
+    {
+        "reported_date": "2020-11-18",
+        "current_schools_w_cases": "670",
+        "current_schools_closed": "3",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "3626",
+        "cumulative_school_related_student_cases": "2077",
+        "cumulative_school_related_staff_cases": "461",
+        "cumulative_school_related_unspecified_cases": "1088"
+    },
+    {
+        "reported_date": "2020-11-19",
+        "current_schools_w_cases": "680",
+        "current_schools_closed": "3",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "3710",
+        "cumulative_school_related_student_cases": "2147",
+        "cumulative_school_related_staff_cases": "476",
+        "cumulative_school_related_unspecified_cases": "1087"
+    },
+    {
+        "reported_date": "2020-11-20",
+        "current_schools_w_cases": "681",
+        "current_schools_closed": "3",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "3803",
+        "cumulative_school_related_student_cases": "2209",
+        "cumulative_school_related_staff_cases": "507",
+        "cumulative_school_related_unspecified_cases": "1087"
+    },
+    {
+        "reported_date": "2020-11-23",
+        "current_schools_w_cases": "676",
+        "current_schools_closed": "3",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "3870",
+        "cumulative_school_related_student_cases": "2267",
+        "cumulative_school_related_staff_cases": "516",
+        "cumulative_school_related_unspecified_cases": "1087"
+    },
+    {
+        "reported_date": "2020-11-24",
+        "current_schools_w_cases": "703",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "4170",
+        "cumulative_school_related_student_cases": "2516",
+        "cumulative_school_related_staff_cases": "568",
+        "cumulative_school_related_unspecified_cases": "1086"
+    },
+    {
+        "reported_date": "2020-11-25",
+        "current_schools_w_cases": "688",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "4269",
+        "cumulative_school_related_student_cases": "2609",
+        "cumulative_school_related_staff_cases": "573",
+        "cumulative_school_related_unspecified_cases": "1087"
+    },
+    {
+        "reported_date": "2020-11-26",
+        "current_schools_w_cases": "679",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "4349",
+        "cumulative_school_related_student_cases": "2673",
+        "cumulative_school_related_staff_cases": "589",
+        "cumulative_school_related_unspecified_cases": "1087"
+    },
+    {
+        "reported_date": "2020-11-27",
+        "current_schools_w_cases": "671",
+        "current_schools_closed": "6",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "4470",
+        "cumulative_school_related_student_cases": "2769",
+        "cumulative_school_related_staff_cases": "614",
+        "cumulative_school_related_unspecified_cases": "1087"
+    },
+    {
+        "reported_date": "2020-11-30",
+        "current_schools_w_cases": "670",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "4573",
+        "cumulative_school_related_student_cases": "2855",
+        "cumulative_school_related_staff_cases": "630",
+        "cumulative_school_related_unspecified_cases": "1088"
+    },
+    {
+        "reported_date": "2020-12-01",
+        "current_schools_w_cases": "737",
+        "current_schools_closed": "6",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "4872",
+        "cumulative_school_related_student_cases": "3107",
+        "cumulative_school_related_staff_cases": "677",
+        "cumulative_school_related_unspecified_cases": "1088"
+    },
+    {
+        "reported_date": "2020-12-02",
+        "current_schools_w_cases": "742",
+        "current_schools_closed": "6",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "5024",
+        "cumulative_school_related_student_cases": "3234",
+        "cumulative_school_related_staff_cases": "702",
+        "cumulative_school_related_unspecified_cases": "1088"
+    },
+    {
+        "reported_date": "2020-12-03",
+        "current_schools_w_cases": "755",
+        "current_schools_closed": "6",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "5146",
+        "cumulative_school_related_student_cases": "3330",
+        "cumulative_school_related_staff_cases": "728",
+        "cumulative_school_related_unspecified_cases": "1088"
+    },
+    {
+        "reported_date": "2020-12-04",
+        "current_schools_w_cases": "776",
+        "current_schools_closed": "8",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "5266",
+        "cumulative_school_related_student_cases": "3425",
+        "cumulative_school_related_staff_cases": "753",
+        "cumulative_school_related_unspecified_cases": "1088"
+    },
+    {
+        "reported_date": "2020-12-07",
+        "current_schools_w_cases": "803",
+        "current_schools_closed": "10",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "5402",
+        "cumulative_school_related_student_cases": "3531",
+        "cumulative_school_related_staff_cases": "783",
+        "cumulative_school_related_unspecified_cases": "1088"
+    },
+    {
+        "reported_date": "2020-12-08",
+        "current_schools_w_cases": "853",
+        "current_schools_closed": "11",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "5736",
+        "cumulative_school_related_student_cases": "3813",
+        "cumulative_school_related_staff_cases": "835",
+        "cumulative_school_related_unspecified_cases": "1088"
+    },
+    {
+        "reported_date": "2020-12-09",
+        "current_schools_w_cases": "866",
+        "current_schools_closed": "12",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "5919",
+        "cumulative_school_related_student_cases": "3966",
+        "cumulative_school_related_staff_cases": "865",
+        "cumulative_school_related_unspecified_cases": "1088"
+    },
+    {
+        "reported_date": "2020-12-10",
+        "current_schools_w_cases": "878",
+        "current_schools_closed": "11",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "6059",
+        "cumulative_school_related_student_cases": "4076",
+        "cumulative_school_related_staff_cases": "893",
+        "cumulative_school_related_unspecified_cases": "1090"
+    },
+    {
+        "reported_date": "2020-12-11",
+        "current_schools_w_cases": "878",
+        "current_schools_closed": "11",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "6217",
+        "cumulative_school_related_student_cases": "4212",
+        "cumulative_school_related_staff_cases": "915",
+        "cumulative_school_related_unspecified_cases": "1090"
+    },
+    {
+        "reported_date": "2020-12-14",
+        "current_schools_w_cases": "889",
+        "current_schools_closed": "18",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "6356",
+        "cumulative_school_related_student_cases": "4330",
+        "cumulative_school_related_staff_cases": "935",
+        "cumulative_school_related_unspecified_cases": "1091"
+    },
+    {
+        "reported_date": "2020-12-15",
+        "current_schools_w_cases": "913",
+        "current_schools_closed": "20",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "6664",
+        "cumulative_school_related_student_cases": "4594",
+        "cumulative_school_related_staff_cases": "977",
+        "cumulative_school_related_unspecified_cases": "1093"
+    },
+    {
+        "reported_date": "2020-12-16",
+        "current_schools_w_cases": "933",
+        "current_schools_closed": "20",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "6847",
+        "cumulative_school_related_student_cases": "4743",
+        "cumulative_school_related_staff_cases": "1010",
+        "cumulative_school_related_unspecified_cases": "1094"
+    },
+    {
+        "reported_date": "2020-12-17",
+        "current_schools_w_cases": "955",
+        "current_schools_closed": "22",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7016",
+        "cumulative_school_related_student_cases": "4884",
+        "cumulative_school_related_staff_cases": "1037",
+        "cumulative_school_related_unspecified_cases": "1095"
+    },
+    {
+        "reported_date": "2020-12-18",
+        "current_schools_w_cases": "957",
+        "current_schools_closed": "22",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7151",
+        "cumulative_school_related_student_cases": "4996",
+        "cumulative_school_related_staff_cases": "1060",
+        "cumulative_school_related_unspecified_cases": "1095"
+    },
+    {
+        "reported_date": "2020-12-21",
+        "current_schools_w_cases": "976",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7292",
+        "cumulative_school_related_student_cases": "5103",
+        "cumulative_school_related_staff_cases": "1094",
+        "cumulative_school_related_unspecified_cases": "1095"
+    },
+    {
+        "reported_date": "2021-01-12",
+        "current_schools_w_cases": "4",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7319",
+        "cumulative_school_related_student_cases": "5137",
+        "cumulative_school_related_staff_cases": "1093",
+        "cumulative_school_related_unspecified_cases": "1089"
+    },
+    {
+        "reported_date": "2021-01-13",
+        "current_schools_w_cases": "4",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7315",
+        "cumulative_school_related_student_cases": "5133",
+        "cumulative_school_related_staff_cases": "1093",
+        "cumulative_school_related_unspecified_cases": "1089"
+    },
+    {
+        "reported_date": "2021-01-14",
+        "current_schools_w_cases": "2",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7312",
+        "cumulative_school_related_student_cases": "5130",
+        "cumulative_school_related_staff_cases": "1093",
+        "cumulative_school_related_unspecified_cases": "1089"
+    },
+    {
+        "reported_date": "2021-01-15",
+        "current_schools_w_cases": "2",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7312",
+        "cumulative_school_related_student_cases": "5130",
+        "cumulative_school_related_staff_cases": "1093",
+        "cumulative_school_related_unspecified_cases": "1089"
+    },
+    {
+        "reported_date": "2021-01-18",
+        "current_schools_w_cases": "2",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7315",
+        "cumulative_school_related_student_cases": "5132",
+        "cumulative_school_related_staff_cases": "1094",
+        "cumulative_school_related_unspecified_cases": "1089"
+    },
+    {
+        "reported_date": "2021-01-19",
+        "current_schools_w_cases": "6",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7321",
+        "cumulative_school_related_student_cases": "5133",
+        "cumulative_school_related_staff_cases": "1096",
+        "cumulative_school_related_unspecified_cases": "1092"
+    },
+    {
+        "reported_date": "2021-01-20",
+        "current_schools_w_cases": "7",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7322",
+        "cumulative_school_related_student_cases": "5133",
+        "cumulative_school_related_staff_cases": "1097",
+        "cumulative_school_related_unspecified_cases": "1092"
+    },
+    {
+        "reported_date": "2021-01-21",
+        "current_schools_w_cases": "7",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7324",
+        "cumulative_school_related_student_cases": "5134",
+        "cumulative_school_related_staff_cases": "1098",
+        "cumulative_school_related_unspecified_cases": "1092"
+    },
+    {
+        "reported_date": "2021-01-22",
+        "current_schools_w_cases": "7",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7324",
+        "cumulative_school_related_student_cases": "5133",
+        "cumulative_school_related_staff_cases": "1096",
+        "cumulative_school_related_unspecified_cases": "1095"
+    },
+    {
+        "reported_date": "2021-01-25",
+        "current_schools_w_cases": "8",
+        "current_schools_closed": "5",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7335",
+        "cumulative_school_related_student_cases": "5133",
+        "cumulative_school_related_staff_cases": "1097",
+        "cumulative_school_related_unspecified_cases": "1105"
+    },
+    {
+        "reported_date": "2021-01-26",
+        "current_schools_w_cases": "14",
+        "current_schools_closed": "5",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7347",
+        "cumulative_school_related_student_cases": "5139",
+        "cumulative_school_related_staff_cases": "1097",
+        "cumulative_school_related_unspecified_cases": "1111"
+    },
+    {
+        "reported_date": "2021-01-27",
+        "current_schools_w_cases": "13",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7349",
+        "cumulative_school_related_student_cases": "5139",
+        "cumulative_school_related_staff_cases": "1097",
+        "cumulative_school_related_unspecified_cases": "1113"
+    },
+    {
+        "reported_date": "2021-01-28",
+        "current_schools_w_cases": "14",
+        "current_schools_closed": "6",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7351",
+        "cumulative_school_related_student_cases": "5140",
+        "cumulative_school_related_staff_cases": "1097",
+        "cumulative_school_related_unspecified_cases": "1114"
+    },
+    {
+        "reported_date": "2021-01-29",
+        "current_schools_w_cases": "15",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7352",
+        "cumulative_school_related_student_cases": "5141",
+        "cumulative_school_related_staff_cases": "1097",
+        "cumulative_school_related_unspecified_cases": "1114"
+    },
+    {
+        "reported_date": "2021-02-01",
+        "current_schools_w_cases": "20",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7359",
+        "cumulative_school_related_student_cases": "5146",
+        "cumulative_school_related_staff_cases": "1098",
+        "cumulative_school_related_unspecified_cases": "1115"
+    },
+    {
+        "reported_date": "2021-02-02",
+        "current_schools_w_cases": "32",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7381",
+        "cumulative_school_related_student_cases": "5161",
+        "cumulative_school_related_staff_cases": "1102",
+        "cumulative_school_related_unspecified_cases": "1118"
+    },
+    {
+        "reported_date": "2021-02-03",
+        "current_schools_w_cases": "42",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7392",
+        "cumulative_school_related_student_cases": "5167",
+        "cumulative_school_related_staff_cases": "1107",
+        "cumulative_school_related_unspecified_cases": "1118"
+    },
+    {
+        "reported_date": "2021-02-04",
+        "current_schools_w_cases": "46",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7398",
+        "cumulative_school_related_student_cases": "5172",
+        "cumulative_school_related_staff_cases": "1108",
+        "cumulative_school_related_unspecified_cases": "1118"
+    },
+    {
+        "reported_date": "2021-02-05",
+        "current_schools_w_cases": "45",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7398",
+        "cumulative_school_related_student_cases": "5172",
+        "cumulative_school_related_staff_cases": "1107",
+        "cumulative_school_related_unspecified_cases": "1119"
+    },
+    {
+        "reported_date": "2021-02-08",
+        "current_schools_w_cases": "43",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7398",
+        "cumulative_school_related_student_cases": "5174",
+        "cumulative_school_related_staff_cases": "1105",
+        "cumulative_school_related_unspecified_cases": "1119"
+    },
+    {
+        "reported_date": "2021-02-09",
+        "current_schools_w_cases": "67",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7442",
+        "cumulative_school_related_student_cases": "5203",
+        "cumulative_school_related_staff_cases": "1114",
+        "cumulative_school_related_unspecified_cases": "1125"
+    },
+    {
+        "reported_date": "2021-02-10",
+        "current_schools_w_cases": "82",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7467",
+        "cumulative_school_related_student_cases": "5224",
+        "cumulative_school_related_staff_cases": "1118",
+        "cumulative_school_related_unspecified_cases": "1125"
+    },
+    {
+        "reported_date": "2021-02-11",
+        "current_schools_w_cases": "93",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7491",
+        "cumulative_school_related_student_cases": "5242",
+        "cumulative_school_related_staff_cases": "1124",
+        "cumulative_school_related_unspecified_cases": "1125"
+    },
+    {
+        "reported_date": "2021-02-12",
+        "current_schools_w_cases": "113",
+        "current_schools_closed": "2",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7519",
+        "cumulative_school_related_student_cases": "5264",
+        "cumulative_school_related_staff_cases": "1130",
+        "cumulative_school_related_unspecified_cases": "1125"
+    },
+    {
+        "reported_date": "2021-02-16",
+        "current_schools_w_cases": "110",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7535",
+        "cumulative_school_related_student_cases": "5285",
+        "cumulative_school_related_staff_cases": "1125",
+        "cumulative_school_related_unspecified_cases": "1125"
+    },
+    {
+        "reported_date": "2021-02-17",
+        "current_schools_w_cases": "152",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7612",
+        "cumulative_school_related_student_cases": "5356",
+        "cumulative_school_related_staff_cases": "1131",
+        "cumulative_school_related_unspecified_cases": "1125"
+    },
+    {
+        "reported_date": "2021-02-18",
+        "current_schools_w_cases": "214",
+        "current_schools_closed": "4",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7700",
+        "cumulative_school_related_student_cases": "5419",
+        "cumulative_school_related_staff_cases": "1156",
+        "cumulative_school_related_unspecified_cases": "1125"
+    },
+    {
+        "reported_date": "2021-02-19",
+        "current_schools_w_cases": "255",
+        "current_schools_closed": "5",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7755",
+        "cumulative_school_related_student_cases": "5465",
+        "cumulative_school_related_staff_cases": "1165",
+        "cumulative_school_related_unspecified_cases": "1125"
+    },
+    {
+        "reported_date": "2021-02-22",
+        "current_schools_w_cases": "278",
+        "current_schools_closed": "10",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "7998",
+        "cumulative_school_related_student_cases": "5560",
+        "cumulative_school_related_staff_cases": "1312",
+        "cumulative_school_related_unspecified_cases": "1126"
+    },
+    {
+        "reported_date": "2021-02-23",
+        "current_schools_w_cases": "352",
+        "current_schools_closed": "11",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "8169",
+        "cumulative_school_related_student_cases": "5706",
+        "cumulative_school_related_staff_cases": "1333",
+        "cumulative_school_related_unspecified_cases": "1130"
+    },
+    {
+        "reported_date": "2021-02-24",
+        "current_schools_w_cases": "401",
+        "current_schools_closed": "16",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "8282",
+        "cumulative_school_related_student_cases": "5797",
+        "cumulative_school_related_staff_cases": "1352",
+        "cumulative_school_related_unspecified_cases": "1133"
+    },
+    {
+        "reported_date": "2021-02-25",
+        "current_schools_w_cases": "430",
+        "current_schools_closed": "18",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "8361",
+        "cumulative_school_related_student_cases": "5865",
+        "cumulative_school_related_staff_cases": "1365",
+        "cumulative_school_related_unspecified_cases": "1131"
+    },
+    {
+        "reported_date": "2021-02-26",
+        "current_schools_w_cases": "468",
+        "current_schools_closed": "18",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "8452",
+        "cumulative_school_related_student_cases": "5946",
+        "cumulative_school_related_staff_cases": "1375",
+        "cumulative_school_related_unspecified_cases": "1131"
+    },
+    {
+        "reported_date": "2021-03-01",
+        "current_schools_w_cases": "530",
+        "current_schools_closed": "20",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "8563",
+        "cumulative_school_related_student_cases": "6043",
+        "cumulative_school_related_staff_cases": "1387",
+        "cumulative_school_related_unspecified_cases": "1133"
+    },
+    {
+        "reported_date": "2021-03-02",
+        "current_schools_w_cases": "640",
+        "current_schools_closed": "23",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "8813",
+        "cumulative_school_related_student_cases": "6262",
+        "cumulative_school_related_staff_cases": "1417",
+        "cumulative_school_related_unspecified_cases": "1134"
+    },
+    {
+        "reported_date": "2021-03-03",
+        "current_schools_w_cases": "672",
+        "current_schools_closed": "24",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "8952",
+        "cumulative_school_related_student_cases": "6379",
+        "cumulative_school_related_staff_cases": "1438",
+        "cumulative_school_related_unspecified_cases": "1135"
+    },
+    {
+        "reported_date": "2021-03-04",
+        "current_schools_w_cases": "683",
+        "current_schools_closed": "26",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "9049",
+        "cumulative_school_related_student_cases": "6455",
+        "cumulative_school_related_staff_cases": "1456",
+        "cumulative_school_related_unspecified_cases": "1138"
+    },
+    {
+        "reported_date": "2021-03-05",
+        "current_schools_w_cases": "703",
+        "current_schools_closed": "29",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "9143",
+        "cumulative_school_related_student_cases": "6539",
+        "cumulative_school_related_staff_cases": "1466",
+        "cumulative_school_related_unspecified_cases": "1138"
+    },
+    {
+        "reported_date": "2021-03-08",
+        "current_schools_w_cases": "734",
+        "current_schools_closed": "30",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "9233",
+        "cumulative_school_related_student_cases": "6618",
+        "cumulative_school_related_staff_cases": "1477",
+        "cumulative_school_related_unspecified_cases": "1138"
+    },
+    {
+        "reported_date": "2021-03-09",
+        "current_schools_w_cases": "780",
+        "current_schools_closed": "34",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "9501",
+        "cumulative_school_related_student_cases": "6832",
+        "cumulative_school_related_staff_cases": "1522",
+        "cumulative_school_related_unspecified_cases": "1147"
+    },
+    {
+        "reported_date": "2021-03-10",
+        "current_schools_w_cases": "816",
+        "current_schools_closed": "34",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "9681",
+        "cumulative_school_related_student_cases": "6984",
+        "cumulative_school_related_staff_cases": "1546",
+        "cumulative_school_related_unspecified_cases": "1151"
+    },
+    {
+        "reported_date": "2021-03-11",
+        "current_schools_w_cases": "834",
+        "current_schools_closed": "33",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "9809",
+        "cumulative_school_related_student_cases": "7090",
+        "cumulative_school_related_staff_cases": "1569",
+        "cumulative_school_related_unspecified_cases": "1150"
+    },
+    {
+        "reported_date": "2021-03-12",
+        "current_schools_w_cases": "850",
+        "current_schools_closed": "32",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "9949",
+        "cumulative_school_related_student_cases": "7189",
+        "cumulative_school_related_staff_cases": "1610",
+        "cumulative_school_related_unspecified_cases": "1150"
+    },
+    {
+        "reported_date": "2021-03-15",
+        "current_schools_w_cases": "840",
+        "current_schools_closed": "23",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "10052",
+        "cumulative_school_related_student_cases": "7277",
+        "cumulative_school_related_staff_cases": "1621",
+        "cumulative_school_related_unspecified_cases": "1154"
+    },
+    {
+        "reported_date": "2021-03-16",
+        "current_schools_w_cases": "893",
+        "current_schools_closed": "27",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "10421",
+        "cumulative_school_related_student_cases": "7581",
+        "cumulative_school_related_staff_cases": "1686",
+        "cumulative_school_related_unspecified_cases": "1154"
+    },
+    {
+        "reported_date": "2021-03-17",
+        "current_schools_w_cases": "909",
+        "current_schools_closed": "31",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "10586",
+        "cumulative_school_related_student_cases": "7719",
+        "cumulative_school_related_staff_cases": "1715",
+        "cumulative_school_related_unspecified_cases": "1152"
+    },
+    {
+        "reported_date": "2021-03-18",
+        "current_schools_w_cases": "915",
+        "current_schools_closed": "33",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "10751",
+        "cumulative_school_related_student_cases": "7858",
+        "cumulative_school_related_staff_cases": "1740",
+        "cumulative_school_related_unspecified_cases": "1153"
+    },
+    {
+        "reported_date": "2021-03-19",
+        "current_schools_w_cases": "908",
+        "current_schools_closed": "38",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "10882",
+        "cumulative_school_related_student_cases": "7967",
+        "cumulative_school_related_staff_cases": "1762",
+        "cumulative_school_related_unspecified_cases": "1153"
+    },
+    {
+        "reported_date": "2021-03-22",
+        "current_schools_w_cases": "921",
+        "current_schools_closed": "44",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "11025",
+        "cumulative_school_related_student_cases": "8086",
+        "cumulative_school_related_staff_cases": "1785",
+        "cumulative_school_related_unspecified_cases": "1154"
+    },
+    {
+        "reported_date": "2021-03-23",
+        "current_schools_w_cases": "997",
+        "current_schools_closed": "48",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "11443",
+        "cumulative_school_related_student_cases": "8424",
+        "cumulative_school_related_staff_cases": "1864",
+        "cumulative_school_related_unspecified_cases": "1155"
+    },
+    {
+        "reported_date": "2021-03-24",
+        "current_schools_w_cases": "1011",
+        "current_schools_closed": "43",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "11682",
+        "cumulative_school_related_student_cases": "8617",
+        "cumulative_school_related_staff_cases": "1909",
+        "cumulative_school_related_unspecified_cases": "1156"
+    },
+    {
+        "reported_date": "2021-03-25",
+        "current_schools_w_cases": "1033",
+        "current_schools_closed": "43",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "11840",
+        "cumulative_school_related_student_cases": "8737",
+        "cumulative_school_related_staff_cases": "1947",
+        "cumulative_school_related_unspecified_cases": "1156"
+    },
+    {
+        "reported_date": "2021-03-26",
+        "current_schools_w_cases": "1053",
+        "current_schools_closed": "44",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "12017",
+        "cumulative_school_related_student_cases": "8883",
+        "cumulative_school_related_staff_cases": "1978",
+        "cumulative_school_related_unspecified_cases": "1156"
+    },
+    {
+        "reported_date": "2021-03-29",
+        "current_schools_w_cases": "1116",
+        "current_schools_closed": "47",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "12237",
+        "cumulative_school_related_student_cases": "9053",
+        "cumulative_school_related_staff_cases": "2021",
+        "cumulative_school_related_unspecified_cases": "1163"
+    },
+    {
+        "reported_date": "2021-03-30",
+        "current_schools_w_cases": "1168",
+        "current_schools_closed": "58",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "12750",
+        "cumulative_school_related_student_cases": "9486",
+        "cumulative_school_related_staff_cases": "2100",
+        "cumulative_school_related_unspecified_cases": "1164"
+    },
+    {
+        "reported_date": "2021-03-31",
+        "current_schools_w_cases": "1199",
+        "current_schools_closed": "63",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "13060",
+        "cumulative_school_related_student_cases": "9749",
+        "cumulative_school_related_staff_cases": "2147",
+        "cumulative_school_related_unspecified_cases": "1164"
+    },
+    {
+        "reported_date": "2021-04-01",
+        "current_schools_w_cases": "1240",
+        "current_schools_closed": "63",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "13278",
+        "cumulative_school_related_student_cases": "9936",
+        "cumulative_school_related_staff_cases": "2179",
+        "cumulative_school_related_unspecified_cases": "1163"
+    },
+    {
+        "reported_date": "2021-04-06",
+        "current_schools_w_cases": "1062",
+        "current_schools_closed": "83",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "13498",
+        "cumulative_school_related_student_cases": "10128",
+        "cumulative_school_related_staff_cases": "2207",
+        "cumulative_school_related_unspecified_cases": "1163"
+    },
+    {
+        "reported_date": "2021-04-07",
+        "current_schools_w_cases": "1266",
+        "current_schools_closed": "57",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "14213",
+        "cumulative_school_related_student_cases": "10692",
+        "cumulative_school_related_staff_cases": "2356",
+        "cumulative_school_related_unspecified_cases": "1165"
+    },
+    {
+        "reported_date": "2021-04-08",
+        "current_schools_w_cases": "1294",
+        "current_schools_closed": "62",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "14478",
+        "cumulative_school_related_student_cases": "10909",
+        "cumulative_school_related_staff_cases": "2410",
+        "cumulative_school_related_unspecified_cases": "1159"
+    },
+    {
+        "reported_date": "2021-04-09",
+        "current_schools_w_cases": "1300",
+        "current_schools_closed": "62",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "14686",
+        "cumulative_school_related_student_cases": "11077",
+        "cumulative_school_related_staff_cases": "2447",
+        "cumulative_school_related_unspecified_cases": "1162"
+    },
+    {
+        "reported_date": "2021-04-12",
+        "current_schools_w_cases": "1302",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "14909",
+        "cumulative_school_related_student_cases": "11264",
+        "cumulative_school_related_staff_cases": "2482",
+        "cumulative_school_related_unspecified_cases": "1163"
+    },
+    {
+        "reported_date": "2021-04-15",
+        "current_schools_w_cases": "1302",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4828",
+        "cumulative_school_related_cases": "14906",
+        "cumulative_school_related_student_cases": "11261",
+        "cumulative_school_related_staff_cases": "2482",
+        "cumulative_school_related_unspecified_cases": "1163"
+    },
+    {
+        "reported_date": "2021-04-27",
+        "current_schools_w_cases": "0",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "15002",
+        "cumulative_school_related_student_cases": "11315",
+        "cumulative_school_related_staff_cases": "2515",
+        "cumulative_school_related_unspecified_cases": "1172"
+    },
+    {
+        "reported_date": "2021-07-05",
+        "current_schools_w_cases": "0",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "15292",
+        "cumulative_school_related_student_cases": "11462",
+        "cumulative_school_related_staff_cases": "2661",
+        "cumulative_school_related_unspecified_cases": "1169"
+    },
+    {
+        "reported_date": "2021-08-26",
+        "current_schools_w_cases": "2",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "3",
+        "cumulative_school_related_student_cases": "3",
+        "cumulative_school_related_staff_cases": "0",
+        "cumulative_school_related_unspecified_cases": "0"
+    },
+    {
+        "reported_date": "2021-08-27",
+        "current_schools_w_cases": "2",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "3",
+        "cumulative_school_related_student_cases": "3",
+        "cumulative_school_related_staff_cases": "0",
+        "cumulative_school_related_unspecified_cases": "0"
+    },
+    {
+        "reported_date": "2021-08-30",
+        "current_schools_w_cases": "2",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "3",
+        "cumulative_school_related_student_cases": "3",
+        "cumulative_school_related_staff_cases": "0",
+        "cumulative_school_related_unspecified_cases": "0"
+    },
+    {
+        "reported_date": "2021-08-31",
+        "current_schools_w_cases": "2",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "4",
+        "cumulative_school_related_student_cases": "4",
+        "cumulative_school_related_staff_cases": "0",
+        "cumulative_school_related_unspecified_cases": "0"
+    },
+    {
+        "reported_date": "2021-09-01",
+        "current_schools_w_cases": "1",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "2",
+        "cumulative_school_related_student_cases": "2",
+        "cumulative_school_related_staff_cases": "0",
+        "cumulative_school_related_unspecified_cases": "0"
+    },
+    {
+        "reported_date": "2021-09-02",
+        "current_schools_w_cases": "3",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "4",
+        "cumulative_school_related_student_cases": "3",
+        "cumulative_school_related_staff_cases": "1",
+        "cumulative_school_related_unspecified_cases": "0"
+    },
+    {
+        "reported_date": "2021-09-03",
+        "current_schools_w_cases": "4",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "5",
+        "cumulative_school_related_student_cases": "4",
+        "cumulative_school_related_staff_cases": "1",
+        "cumulative_school_related_unspecified_cases": "0"
+    },
+    {
+        "reported_date": "2021-09-07",
+        "current_schools_w_cases": "7",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "8",
+        "cumulative_school_related_student_cases": "6",
+        "cumulative_school_related_staff_cases": "2",
+        "cumulative_school_related_unspecified_cases": "0"
+    },
+    {
+        "reported_date": "2021-09-08",
+        "current_schools_w_cases": "28",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "44",
+        "cumulative_school_related_student_cases": "34",
+        "cumulative_school_related_staff_cases": "10",
+        "cumulative_school_related_unspecified_cases": "0"
+    },
+    {
+        "reported_date": "2021-09-09",
+        "current_schools_w_cases": "46",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "70",
+        "cumulative_school_related_student_cases": "48",
+        "cumulative_school_related_staff_cases": "19",
+        "cumulative_school_related_unspecified_cases": "3"
+    },
+    {
+        "reported_date": "2021-09-10",
+        "current_schools_w_cases": "65",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "100",
+        "cumulative_school_related_student_cases": "67",
+        "cumulative_school_related_staff_cases": "23",
+        "cumulative_school_related_unspecified_cases": "10"
+    },
+    {
+        "reported_date": "2021-09-13",
+        "current_schools_w_cases": "98",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "162",
+        "cumulative_school_related_student_cases": "119",
+        "cumulative_school_related_staff_cases": "29",
+        "cumulative_school_related_unspecified_cases": "14"
+    },
+    {
+        "reported_date": "2021-09-14",
+        "current_schools_w_cases": "218",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "328",
+        "cumulative_school_related_student_cases": "257",
+        "cumulative_school_related_staff_cases": "51",
+        "cumulative_school_related_unspecified_cases": "20"
+    },
+    {
+        "reported_date": "2021-09-15",
+        "current_schools_w_cases": "299",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "486",
+        "cumulative_school_related_student_cases": "394",
+        "cumulative_school_related_staff_cases": "66",
+        "cumulative_school_related_unspecified_cases": "26"
+    },
+    {
+        "reported_date": "2021-09-16",
+        "current_schools_w_cases": "348",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "570",
+        "cumulative_school_related_student_cases": "479",
+        "cumulative_school_related_staff_cases": "68",
+        "cumulative_school_related_unspecified_cases": "23"
+    },
+    {
+        "reported_date": "2021-09-17",
+        "current_schools_w_cases": "396",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "632",
+        "cumulative_school_related_student_cases": "526",
+        "cumulative_school_related_staff_cases": "82",
+        "cumulative_school_related_unspecified_cases": "24"
+    },
+    {
+        "reported_date": "2021-09-20",
+        "current_schools_w_cases": "444",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "751",
+        "cumulative_school_related_student_cases": "618",
+        "cumulative_school_related_staff_cases": "102",
+        "cumulative_school_related_unspecified_cases": "31"
+    },
+    {
+        "reported_date": "2021-09-21",
+        "current_schools_w_cases": "593",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "1046",
+        "cumulative_school_related_student_cases": "889",
+        "cumulative_school_related_staff_cases": "120",
+        "cumulative_school_related_unspecified_cases": "37"
+    },
+    {
+        "reported_date": "2021-09-22",
+        "current_schools_w_cases": "660",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "1186",
+        "cumulative_school_related_student_cases": "1005",
+        "cumulative_school_related_staff_cases": "138",
+        "cumulative_school_related_unspecified_cases": "43"
+    },
+    {
+        "reported_date": "2021-09-23",
+        "current_schools_w_cases": "702",
+        "current_schools_closed": "0",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "1306",
+        "cumulative_school_related_student_cases": "1110",
+        "cumulative_school_related_staff_cases": "153",
+        "cumulative_school_related_unspecified_cases": "43"
+    },
+    {
+        "reported_date": "2021-09-24",
+        "current_schools_w_cases": "750",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "1484",
+        "cumulative_school_related_student_cases": "1261",
+        "cumulative_school_related_staff_cases": "178",
+        "cumulative_school_related_unspecified_cases": "45"
+    },
+    {
+        "reported_date": "2021-09-27",
+        "current_schools_w_cases": "779",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "1604",
+        "cumulative_school_related_student_cases": "1364",
+        "cumulative_school_related_staff_cases": "193",
+        "cumulative_school_related_unspecified_cases": "47"
+    },
+    {
+        "reported_date": "2021-09-28",
+        "current_schools_w_cases": "808",
+        "current_schools_closed": "1",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "1867",
+        "cumulative_school_related_student_cases": "1605",
+        "cumulative_school_related_staff_cases": "210",
+        "cumulative_school_related_unspecified_cases": "52"
+    },
+    {
+        "reported_date": "2021-09-29",
+        "current_schools_w_cases": "808",
+        "current_schools_closed": "3",
+        "current_total_number_schools": "4844",
+        "cumulative_school_related_cases": "2042",
+        "cumulative_school_related_student_cases": "1768",
+        "cumulative_school_related_staff_cases": "222",
+        "cumulative_school_related_unspecified_cases": "52"
+    }
+]
