@@ -1,0 +1,53 @@
+body {
+    background-image: url("../images/background.png");
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial;
+    color: #04030F;
+}
+
+.grid-container>div {
+    padding: 5px 5px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas: 'header header header header header header' 'row row row row row row' 'left left left right right right' 'footer footer footer footer footer footer';
+    grid-gap: 5px;
+    padding: 5px;
+}
+
+.grid_header {
+    grid-area: header;
+}
+
+.grid_nav {
+    grid-area: row;
+}
+
+.grid_date_section {
+    grid-area: left;
+}
+
+.grid_details_section {
+    grid-area: right;
+}
+
+.grid_footer {
+    grid-area: footer;
+}
+
+.navbar {
+    overflow: hidden;
+}
+
+.navbar button {
+    float: left;
+    font-size: 16px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    margin-right: 10px;
+    text-decoration: none;
+}
